@@ -1,9 +1,9 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
-url: ""
+title: Anarghya Das
+email: anarghya@buffalo.edu
+description: Academic webpage of Anarghya Das
+baseurl: "/~anarghya"
+url: "https://www.acsu.buffalo.edu/"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,28 +12,25 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+  Anarghya Das<br/>
+  Ph.D Candidate<br/>
+  University at Buffalo
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  <a href="https://www.google.com/maps/place/43.002942213328105,-78.78734210667226" target="_blank"><i class="fa fa-map-marker fa-1x"></i> 340 Davis Hall, Amherst, NY 14260</a>
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-
+  <a href="mailto:anarghya@buffalo.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Anarghya via email</a> <br/>
+  <a href="https://matrix.to/#/@anarghya:matrix.org" target="_blank"><i class="fa fa-comment fa-1x"></i> Contact Anarghya via Matrix </a>
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
+  # - name: talks
+  # - name: research
+  # - name: software
+  # - name: team
+  # - name: teaching
 
 include:
   - .htaccess
@@ -58,19 +55,17 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-
-plugins: ['jekyll/scholar']
+plugins: ["jekyll/scholar"]
 
 scholar:
-
-  last_name: Doe
-  first_name: [John]
+  last_name: Das
+  first_name: [Anarghya]
 
   style: citesty
   locale: en
 
   source: /assets/
-  bibliography: ref.bib
+  bibliography: pubs.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending

@@ -5,29 +5,10 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
-
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+I am a 3rd year Ph.D. candidate studying at the University at Buffalo (UB) in the field Brain Computer Interfaces (BCIs). I received my undergraduate degree in Computer Science and minor in Mathematics from the University at Buffalo (UB) in 2021. My research focus centers on advancing and implementing wearable technology-driven solutions in healthcare, often called **Smart Health**. Specifically, I delve into **Mobile Computing** and **Brain-Computer Interfaces (BCI)**, where I aim to innovate at the intersection of neuroscience and technology. 
 
+As a BCI researcher, I conceptualize, design, implement, and evaluate comprehensive BCI systems. My exploration spans various innovative applications within this field. Notably, I have delved into EEG compression techniques in wearable computing and into the fusion of EEG and voice data to amplify the capabilities of Automatic Speech Recognition (ASR) systems. These endeavors aim to bridge the divide between physiological signals and machine learning algorithms, fostering more effective healthcare solutions.
+
+Beyond BCI, I have actively contributed to projects to enhance healthcare technologies and rehabilitation experiences. For instance, in the mRehab project, I engineered a system that integrates smartphone apps and 3D-printed household items to assist stroke survivors in remote home-based therapy. Similarly, in MidiGait, I designed a system utilizing smart insoles and smartphone technology to facilitate melodic gait rehabilitation in Parkinson's patients. Furthermore, my involvement in the Sense2Quit project entailed exploring the potential of mobile health technology in smoking cessation interventions for individuals living with HIV. 
