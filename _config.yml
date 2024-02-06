@@ -6,8 +6,7 @@ baseurl: "/~anarghya"
 url: "https://www.acsu.buffalo.edu"
 
 # Google analytics ID: Uncomment and your own, if you like
-# google_analytics: XX
-# google_analytics_4: XXX
+google_analytics: G-R5HYN48VN1
 # google_tag_manager: XXX
 
 # Footer info
